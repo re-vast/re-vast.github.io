@@ -1,0 +1,128 @@
+CIdx,Contribution,DOI,Our Labels
+1,The problem characterization and abstraction of the studied use case,10.1109/TVCG.2021.3114797,Design study
+2,the reporting of the interactive design of IRVINE,10.1109/TVCG.2021.3114797,VA design/workflow/framework
+3,the evaluation of IRVINE together with six automotive engineers,10.1109/TVCG.2021.3114797,Evaluation
+3,reflections of our design process,10.1109/TVCG.2021.3114797,Reflection
+1,"We have implemented the visualization system to facilitate analysis, judgment, and decision-making to search solid electrolyte materials with high ionic conductivity",10.1109/TVCG.2021.3114812,VA system/tool/prototype
+2,"We have proposed an interactive visual analysis including feature composition, model performance comparison, and final predication result presentation to assist the domain experts in selecting possible suitable solid electrolyte materials for further inspection in actual experimental environments",10.1109/TVCG.2021.3114812,VA design/workflow/framework
+3,"The effectiveness of our system has been proven through one actual case. One candidate for solid electrolyte materials has been selected by analyzing and interpreting the ML predication results visually for inspection in the lab. After several months, we finally prepared the material in the lab and tested its lithium ion conductivity with an acceptable result.",10.1109/TVCG.2021.3114812,Evaluation
+1,"An immersive analytics system that supports experts in exploring
+badminton tactics in numerous sequential stroke trajectories",10.1109/TVCG.2021.3114861,VA system/tool/prototype
+2,"Case studies with professional badminton experts, interviews that reveal the usability of the visualization design and the effectiveness of the system, and valuable tactical guidance for players",10.1109/TVCG.2021.3114861,Evaluation
+1,"a description of the application domain data and tasks, with an emphasis on the multidisciplinary development of clustering tools for symptom data in cancer therapy",10.1109/TVCG.2021.3114810,Design study
+2,"the design of a novel blend of data mining and visual encodings to predict and explain longitudinal symptom development, based on an existing cohort of patients",10.1109/TVCG.2021.3114810,VA design/workflow/framework
+3,"the description of customized interactive encodings: interactive association-rule diagrams, filaments, and percentile heatmaps",10.1109/TVCG.2021.3114810,Visual representation
+4,an implementation of this approach in a visual symptom explorer named THALIS: THerapy Analysis of LongItudinal Symptoms (Fig. 1),10.1109/TVCG.2021.3114810,VA system/tool/prototype
+5,a qualitative evaluation by domain experts using an existing head and neck symptom repository,10.1109/TVCG.2021.3114810,Evaluation
+6,"a start-to-end description of the design process and of the lessons learned from this successful, multi-site remote collaboration",10.1109/TVCG.2021.3114810,Reflection
+1,"A user-centered design study focused on visual analysis of disease progression. We summarize data characterization and analysis tasks, and propose an interactive visual analytics method for disease progress analysis through two phases: state identification and transition summarization. We discuss and justify considerations and rationales behind the algorithm choices and visualization designs",10.1109/TVCG.2021.3114840,Design study
+2,"ThreadStates, an interactive web-based tool for state-based visual analytics of disease progression. ",10.1109/TVCG.2021.3114840,VA system/tool/prototype
+2,This tool integrates existing sequence mining and clustering techniques with a set of novel visualization designs.,10.1109/TVCG.2021.3114840,Visual representation
+3,Case studies and expert feedback that demonstrate the utility of ThreadStates and generate insights about disease progression.,10.1109/TVCG.2021.3114840,Evaluation
+1,"on the one hand, we contribute a design study based on a detailed analysis of the domain problem",10.1109/TVCG.2021.3114766,Design study
+1,which results in a functioning and deployed software tool,10.1109/TVCG.2021.3114766,VA system/tool/prototype
+2,"On the other hand, we also contribute a novel technique to visualize representative exemplars of cells by sampling cells along user-specified data dimensions. This approach enables analysts to both quickly validate preprocessing steps such as segmentation and tracking, and analyze the properties of cells in different conditions, thereby making visual analysis of microscopy data feasible even for large datasets. We argue that this technique can be applied broadly to other imaging/segmentation problems and beyond.",10.1109/TVCG.2021.3114766,Visual representation
+1,"A visual analytics framework for human-in-the-loop, example-
+based graph pattern search via graph representation learning. ",10.1109/TVCG.2021.3114857,VA design/workflow/framework
+1,"To the best of our knowledge, this is the first deep learning-based approach for interactive graph pattern query.",10.1109/TVCG.2021.3114857,New domain and problem
+2,A novel approach (NeuroAlign) for pairwise node-alignment based on graph representation learning which provides 10×– 100× speedup compared to baseline combinatorial algorithm [47] and 19%–29% more accurate results than existing deep learning based approach.,10.1109/TVCG.2021.3114857,Data mining algorithm
+3,"A prototype implementation of the framework, GraphQ, with interactive query specification, query result display with multiple levels-of-detail, and user feedback mechanisms for query refinement. ",10.1109/TVCG.2021.3114857,VA system/tool/prototype
+3,Two example usage scenarios illustrating the general applicability and effectiveness of the proposed system.,10.1109/TVCG.2021.3114857,Evaluation
+1,an in-depth analysis of challenges,10.1109/TVCG.2021.3114866,Design study
+2,the design of visualization and interaction concepts enabling the visual analysis of the model checking results,10.1109/TVCG.2021.3114866,VA design/workflow/framework
+3,the realization of these concepts with HyperVis as a web-based tool alongside integrated editing facilities,10.1109/TVCG.2021.3114866,VA system/tool/prototype
+4,insights from applying multiple case studies to our tool and conducting user feedback sessions with 6 participants,10.1109/TVCG.2021.3114866,Evaluation
+1,"A visual analytics framework that supports analysts in exploring
+multi-class bias in human-guided fairness definitions at both the
+group and individual levels.",10.1109/TVCG.2021.3114850,VA design/workflow/framework
+2,Interactive methods for auditing fairness between machine learning algorithms to help analysts diagnose model trade-offs under different fairness definitions.,10.1109/TVCG.2021.3114850,VA design/workflow/framework
+1,A summary of seven design requirements facilitating the interpretation of ML predictions to clinicians; and the identification of two workflows describing how they work with ML models with feature-level explanations and needed context information,10.1109/TVCG.2021.3114836,Design study
+2,"A visual analytics system that integrates novel explanation algorithms and visualization and interaction techniques, to connect the dots between ML features, explanations, and health records for an improved clinicians' decision-making workflow.",10.1109/TVCG.2021.3114836,VA system/tool/prototype
+3,Two case studies and an expert interview demonstrating the usefulness and efficiency of our system.,10.1109/TVCG.2021.3114836,Evaluation
+1,We characterize the problem domain of visual analytics of time-varying effects of multiple factors on academic career success.,10.1109/TVCG.2021.3114790,Design study
+2,We propose a novel framework that analyzes the effects of multiple factors on researchers' career success longitudinally.,10.1109/TVCG.2021.3114790,VA design/workflow/framework
+3,"We develop ACSeeker, an interactive visualization system for social scientists and other scholars to explore academic careers with multiple factors through novel designs.",10.1109/TVCG.2021.3114790,VA system/tool/prototype
+4,"We demonstrate the effectiveness and usability of ACSeeker with a dataset that involves more than 1,100 visualization researchers.",10.1109/TVCG.2021.3114790,Evaluation
+1,results of a formative interview study in which visualization researchers identified key challenges in current literature review practices (Section 3),10.1109/TVCG.2021.3114820,Design study
+2,"a dataset of scraped metadata from 59, 232 academic articles (https://figshare.com/articles/dataset/VitaLITy_A_Dataset_of_Academic_Articles/14329151 [48], CC0 License), including paper titles, keywords, and abstracts from 38 popular venues for visualization research (Section 4.1)",10.1109/TVCG.2021.3114820,Dataset
+3,"an open-source tool, VITALITY (http://vitality-vis.github.io, MIT License), for supporting discovery of relevant articles while conducting literature reviews (Section 4.2)",10.1109/TVCG.2021.3114820,VA system/tool/prototype [open]
+4,usage scenarios describing potential workflows in which VITAL-ITY might be used in different ways to support serendipitous discovery of relevant academic literature (Section 5),10.1109/TVCG.2021.3114820,VA design/workflow/framework
+5,results of a summative evaluation of VITALITY (Section 6),10.1109/TVCG.2021.3114820,Evaluation
+1,A visual analysis system supporting analysis of speech effectiveness. The system allows public speaking experts and novices to explore speech effectiveness in a systematic way that fits with mainstream theory on public speaking. The system was designed to support understanding given moderate visualization literacy of speaking experts and novices. Verification of the understanding of effective speaking patterns as well as the utility of our system was tested in user trials.,10.1109/TVCG.2021.3114789,VA system/tool/prototype
+2,"Novel techniques of expressive visualization. New visualization methods were developed to assist users to further understand critical factor data. These include a spiral-like graph for indicating emotional fluctuations, as well as a method for displaying key information in speech texts.",10.1109/TVCG.2021.3114789,Visual representation
+3,"Analytical insights based on an inspirational speech dataset. We utilize algorithms and visualization methods to identify what factors are indicative of effectiveness. From the evaluation, we reveal the ability of the system to assist users to examine their existing hypothesis about speech factors as well as to generate new hypothesis based on large scale data.",10.1109/TVCG.2021.3114789,Evaluation
+1,"a video analysis pipeline that extracts multiple acoustic, textual, and visual features from a think-aloud recording to facilitate UX problem identification",10.1109/TVCG.2021.3114822,Data mining algorithm
+2,"a visual analytics tool, CoUX, that supports problem identification, annotation, and collaboration for UX evaluators in an integrated environment",10.1109/TVCG.2021.3114822,VA system/tool/prototype
+3,Insights into the results of a user study with six pairs of UX practitioners on collaborative think-aloud video analysis tasks,10.1109/TVCG.2021.3114822,Evaluation
+1,"A novel visual analytics framework supporting a human-in-the-loop, active learning based approach to extract visual concepts for model interpretation, as well as identifying visual concepts that negatively affect model performance (Section 4)",10.1109/TVCG.2021.3114837,VA design/workflow/framework
+2,"A prototype system implementing our proposed human-in-the-loop workflow, featuring scalable image patch exploration, visual cues and interactive filters for active learning and a rich set of model diagnostics and comparative analysis visualizations (Section 5)",10.1109/TVCG.2021.3114837,VA system/tool/prototype
+3,Two case studies and quantitative experiments demonstrating the value of using ConceptExtract for diverse machine learning tasks and datasets (Section 7),10.1109/TVCG.2021.3114837,Evaluation
+4,"Quantitative experiments that show ConceptExtract produces concepts faster than traditional active learning, and that these concepts can help develop data augmentation strategies for model performance improvement (Section 8)",10.1109/TVCG.2021.3114837,Evaluation
+1,"Lens, a visual analytics system to produce multi-level and multi-faceted explanations on intra- and inter-modal interactions that are learned by the multimodal models.",10.1109/TVCG.2021.3114794,VA system/tool/prototype
+2,Case studies and expert interviews that demonstrate the effectiveness of our approach in helping users gain deep insights into two state-of-the-art multimodal models for sentiment analysis.,10.1109/TVCG.2021.3114794,Evaluation
+1,"Neurocartography, an interactive system that scalably summarizes and visualizes fundamental concepts that contribute to the behaviors of large-scale image classifier models (Fig. 1), such as InceptionVI [53]. Neurocartography automatically discovers groups of neurons that detect the same concepts and describes how such neuron groups interact to form higher-level concepts and the subsequent predictions (Sect. 7).",10.1109/TVCG.2021.3114858,VA system/tool/prototype
+2,"Two scalable concept summarization techniques: (1) neuron clustering groups neurons based on the semantic similarity of the concepts that neurons detect (e.g., neurons detecting “dog faces” of different breeds are grouped); and (2) neuron embedding encodes the associations between related concepts based on how often they co-occur (e.g., neurons detecting “dog face” and “furry body” are placed closer in the embedding space, as seen in Fig. 1A, B). Both efficient techniques avoid naively comparing all neuron pairs, resulting in a time complexity that is linear to the number of neurons, rather than quadratic time. Our techniques scale to large data, such as ImageNet ILSVRC 2012 with 1.2M images [47] (Sect. 6).",10.1109/TVCG.2021.3114858,Data mining algorithm
+3,"Interactive exploration of Concept Cascade enables users to selectively initialize and examine how a concept detected by a neuron group would trigger higher-level concepts across subsequent layers in a neural network. Neurocartography visualizes the user-selected concept's “cascading effect,” helping users interpret the successive concept initiations and relationships (Sect. 7.2.2).",10.1109/TVCG.2021.3114858,VA design/workflow/framework
+4,"Empirical findings through large-scale human evaluation and discovery scenarios. Through a large-scale human evaluation, we demonstrate that Neurocartography detects neuron groups representing coherent concepts with consistent meaningful human interpretations (Sect. 8). We describe how Neurocartography can help discover several interesting and surprising findings through usage scenarios, like identifying concept cascades for related classes (e.g., dogs of different breeds) and identifying isolated concepts that are unrelated to all other concepts in a neural network (Sect. 9)",10.1109/TVCG.2021.3114858,Evaluation
+5,"An open-sourced, web-based implementation that helps broaden people's access to neural network interpretability research without the need for advanced computational resources. Our code and data are open-sourced1, and the system is available at the following public demo link: https://poloclub.github.io/neuro-cartography/.
+",10.1109/TVCG.2021.3114858,VA system/tool/prototype [open]
+1,An effective pattern mining pipeline for identifying various tactics and discovering ever-changing tactic progressions.,10.1109/TVCG.2021.3114832,Data mining algorithm
+2,A tailored user interface for visually and interactively analyzing ever-changing tactics in racket sports.,10.1109/TVCG.2021.3114832,VA system/tool/prototype
+3,"Two case studies on real-world racket sports datasets along with expert interviews, demonstrating the usability of our system.",10.1109/TVCG.2021.3114832,Evaluation
+1,"We introduce a risk-aware framework, namely, VideoModerator, to facilitate the efficient moderation of e-commerce videos.",10.1109/TVCG.2021.3114781,VA design/workflow/framework
+2,"We propose novel visual summarization techniques to visualize multimodal video content and the risk-aware information.
+",10.1109/TVCG.2021.3114781,Visual representation
+3,"We conduct experiments and a controlled user study to evaluate VideoModerator and report its usage through a case scenario.
+
+",10.1109/TVCG.2021.3114781,Evaluation
+1,"We characterize the design requirements and domain problems in monitoring, analyzing, and evaluating order-delaying issues in e-commerce warehouses.
+",10.1109/TVCG.2021.3114878,Design study
+2,"We develop a comprehensive visual analytics system based on the design requirements. The system provides real-time monitoring, deep analysis and further decision-making.
+",10.1109/TVCG.2021.3114878,VA system/tool/prototype
+3,"We propose two tailored visualization designs for presenting parallel tasks and hierarchy data structures of process data. One is to illustrate streaming processing data, and the other is to visualize the historical processing record
+",10.1109/TVCG.2021.3114878,Visual representation
+4,"We evaluate our system with real-world order processing data by using two case studies and three expert interviews.
+
+",10.1109/TVCG.2021.3114878,Evaluation
+-,,10.1109/TVCG.2021.3114821,
+1,"We propose a dynamic clustering algorithm to enable the efficient clustering of fast-paced incoming streaming data. Our approach automatically determines the number of suitable clusters and minimizes the changes that each update incurs.
+",10.1109/TVCG.2021.3114800,Data mining algorithm
+2,"Based on our dynamic clustering algorithm, we developed a system for visually analyzing streaming social media data in realtime that scales to millions of posts even on a budget PC. It provides a highly interlinked visualization of current topics, allows analysts to dive deeper into specific topics of interest, and reduces the amount of visual changes to preserve the mental map.
+",10.1109/TVCG.2021.3114800,VA system/tool/prototype
+3,"We present a two-way parallel clustering approach to extract a filtered stream of representative posts. Our visualization of frequent phrases and the continuous extraction of such representative posts offer a comprehensive but still digestible summary of recent developments related to topics of interest.
+",10.1109/TVCG.2021.3114800,Data mining algorithm
+1,"A technique to build and explore a multilevel overview of event sequences, from coarse to fine vertical or horizontal level-of-detail, using hierarchical aggregation and a novel Align-Score-Simplify cluster data representation.
+",10.1109/TVCG.2021.3114868,Visual representation
+2,"A novel approach to explore sequence clusterings, where a ranked set of alternative optimal number of clusters are provided.
+",10.1109/TVCG.2021.3114868,Visual representation
+3,"Sequen-C, a visual analytics system that allows multilevel and detail-on-demand exploration of sequences, and the inspection of attributes at cluster, unique sequence, or individual record level.
+",10.1109/TVCG.2021.3114868,VA system/tool/prototype
+4,"Two case studies involving domain experts in the clinical domain.
+",10.1109/TVCG.2021.3114868,Evaluation
+1,"EVis, a visual analytics prototype specifically designed for Earth scientists to explore environmentally driven events and their relationships to multiple E-conditions",10.1109/TVCG.2021.3114867,VA system/tool/prototype
+2,"RadViz-Leash, a new visual analytics approach for interactively analyzing temporally lagging relationships between events and their multidimensional preceding conditions",10.1109/TVCG.2021.3114867,Visual representation
+3,case studies and expert feedback to evaluate the usefulness of EVis and RadViz-Leash,10.1109/TVCG.2021.3114867,Evaluation
+1,"VisQA an interactive visual analytics tool which helps experts to explore the inner workings of transformers models for VQA by displaying models' attention heads in an instance-based fashion.
+",10.1109/TVCG.2021.3114683,VA system/tool/prototype
+2,"A set of visualizations to address bias in VQA systems designed to explore models' performances in real-time with altered attention, and/or by asking free-text questions.",10.1109/TVCG.2021.3114683,Visual representation
+3,"Insights on the emergence bias in transformers for VQA gained by experts through an in-depth analysis using VisQA, along with an evaluation of its usability to estimate models' predictions and eventually bias exploitation.",10.1109/TVCG.2021.3114683,Evaluation
+1,a technique to model users' analytic behavior from interactions with the data,10.1109/TVCG.2021.3114827,Data model
+2,"a visual analysis tool, Lumos (https://lumos-vis.github.io/), that implements visualizing analytic behavior using interaction traces,",10.1109/TVCG.2021.3114827,VA system/tool/prototype [open]
+3,a series of scenarios that describe potential usage of Lumos,10.1109/TVCG.2021.3114827,Evaluation
+4,results from a user study to understand how Lumos helps users be more aware of their analytic behavior during visual data analysis,10.1109/TVCG.2021.3114827,Evaluation
+1,We develop visual analytics (VA) techniques and a prototype that support domain users to study and compare multiple ADMs for their prediction performance in both city and street levels,10.1109/TVCG.2021.3114853,VA system/tool/prototype
+2,"We present visual analysis functions that facilitate bidirectional data analysis, either from spatial conditions to ADM prediction performance or from model accuracy/perplexity to spatial attributes.",10.1109/TVCG.2021.3114853,VA design/workflow/framework
+3,We seamlessly integrate large-scale spatial video data and ADM prediction data within efficient data management and interactive geo-visualization interface.,10.1109/TVCG.2021.3114853,Data model
+1,We develop a visual evaluation workflow from overview to details that helps autonomous driving module developers explore the performance of each module and related contributing factors.,10.1109/TVCG.2021.3114777,VA design/workflow/framework
+2,We build a visual evaluation system to support visual and interactive evaluation of the whole process of autonomous driving.,10.1109/TVCG.2021.3114777,VA system/tool/prototype
+3,We develop application scenarios for autonomous driving evaluation with cases evaluated by the domain experts.,10.1109/TVCG.2021.3114777,Evaluation
+1,The first visual analytics framework for diagnosing and improving deep semantic segmentation models over crucial movable objects in autonomous driving;,10.1109/TVCG.2021.3114855,VA design/workflow/framework
+1,The first visual analytics framework for diagnosing and improving deep semantic segmentation models over crucial movable objects in autonomous driving;,10.1109/TVCG.2021.3114855,New domain and problem
+2,"A context-aware spatial representation learning method to extract representation of objects' spatial information (e.g., position, size, and aspect ratio), which serves as the foundation of adversarial data generation, visual summarization and interpretation;",10.1109/TVCG.2021.3114855,Data mining algorithm
+3,A spatial adversarial learning method to generate movable objects in given driving scenes and identify models' potential vulnerabilities with respect to objects' spatial information;,10.1109/TVCG.2021.3114855,Data mining algorithm
+4,"A proven human-in-the-loop method for performance improvement with two real-world use cases in a deployed system, where domain experts can inject their insights to models via visual analytics guided data generation and augmentation.",10.1109/TVCG.2021.3114855,Evaluation
+1,We propose a causal detection framework for urban time series by extending the Granger causality test.,10.1109/TVCG.2021.3114875,VA design/workflow/framework
+3,"We design and implement a novel visual analytics system called Compass for causal analysis of urban time series. Compass incorporates the causal detection framework and a set of effective visualizations for analyzing dynamic causalities.
+",10.1109/TVCG.2021.3114875,VA design/workflow/framework
+3,We design and implement a novel visual analytics system called Compass for causal analysis of urban time series. Compass incorporates the causal detection framework and a set of effective visualizations for analyzing dynamic causalities.,10.1109/TVCG.2021.3114875,VA system/tool/prototype
+3,We evaluate our approach through two real-world case studies.,10.1109/TVCG.2021.3114875,Evaluation

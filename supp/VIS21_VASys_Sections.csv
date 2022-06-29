@@ -1,0 +1,241 @@
+secIdx,secText,DOI,ours
+1,Introduction,10.1109/TVCG.2021.3114797,Introduction
+2,Related work,10.1109/TVCG.2021.3114797,Related Work
+3,Methods,10.1109/TVCG.2021.3114797,Problem Abstraction
+4,Abstractions,10.1109/TVCG.2021.3114797,Problem Abstraction
+5,Non-visual data analysis support,10.1109/TVCG.2021.3114797,Data and Algorithms
+6,The irvine system,10.1109/TVCG.2021.3114797,System and Implementation
+7,Usage scenarios,10.1109/TVCG.2021.3114797,Evaluation
+8,User evaluation,10.1109/TVCG.2021.3114797,Evaluation
+9,Discussion,10.1109/TVCG.2021.3114797,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114812,Introduction
+2,Related work,10.1109/TVCG.2021.3114812,Related Work
+3,Domain background,10.1109/TVCG.2021.3114812,Problem Abstraction
+4,User-centered design,10.1109/TVCG.2021.3114812,Problem Abstraction
+5,Visual design,10.1109/TVCG.2021.3114812,Visual Design
+6,System evaluation,10.1109/TVCG.2021.3114812,Evaluation
+8,Conclusion,10.1109/TVCG.2021.3114812,Discussion and Conclusion
+7,Discussion,10.1109/TVCG.2021.3114812,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114861,Introduction
+2,Related work,10.1109/TVCG.2021.3114861,Related Work
+3,Background and design requirements,10.1109/TVCG.2021.3114861,Problem Abstraction
+4,System design,10.1109/TVCG.2021.3114861,System and Implementation
+5,Evaluation,10.1109/TVCG.2021.3114861,Evaluation
+6,Discussion,10.1109/TVCG.2021.3114861,Discussion and Conclusion
+7,Conclusion,10.1109/TVCG.2021.3114861,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114810,Introduction
+2,Related work,10.1109/TVCG.2021.3114810,Related Work
+3,Background,10.1109/TVCG.2021.3114810,Problem Abstraction
+4,Design,10.1109/TVCG.2021.3114810,
+7,Conclusion,10.1109/TVCG.2021.3114810,Discussion and Conclusion
+5,Evaluation and results,10.1109/TVCG.2021.3114810,Evaluation
+6,Discussion,10.1109/TVCG.2021.3114810,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114840,Introduction
+2,Related work,10.1109/TVCG.2021.3114840,Related Work
+3,Design methodology,10.1109/TVCG.2021.3114840,Problem Abstraction
+6,Case studies,10.1109/TVCG.2021.3114840,Evaluation
+4,Visual analysis of disease progression,10.1109/TVCG.2021.3114840,System and Implementation
+5,Implementation,10.1109/TVCG.2021.3114840,System and Implementation
+8,Conclusion,10.1109/TVCG.2021.3114840,Discussion and Conclusion
+7,Discussion,10.1109/TVCG.2021.3114840,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114766,Introduction
+3,Biological background,10.1109/TVCG.2021.3114766,Problem Abstraction
+4,Dataset description,10.1109/TVCG.2021.3114766,Data and Algorithms
+5,Collaboration and domain goals,10.1109/TVCG.2021.3114766,Problem Abstraction
+6,Loon visualization design,10.1109/TVCG.2021.3114766,Visual Design
+7,Implementation,10.1109/TVCG.2021.3114766,System and Implementation
+8,Case studies,10.1109/TVCG.2021.3114766,Evaluation
+9,Lessons learned and reflections,10.1109/TVCG.2021.3114766,Discussion and Conclusion
+2,Related work,10.1109/TVCG.2021.3114766,Related Work
+1,Introduction,10.1109/TVCG.2021.3114857,Introduction
+2,Related work,10.1109/TVCG.2021.3114857,Related Work
+3,Algorithm,10.1109/TVCG.2021.3114857,Data and Algorithms
+4,Visualization and interaction,10.1109/TVCG.2021.3114857,Visual Design
+5,Evaluation,10.1109/TVCG.2021.3114857,Evaluation
+6,Discussion,10.1109/TVCG.2021.3114857,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114866,Introduction
+2,Working with hyperproperties,10.1109/TVCG.2021.3114866,Related Work
+3,Background,10.1109/TVCG.2021.3114866,Problem Abstraction
+4,Hypervis,10.1109/TVCG.2021.3114866,System and Implementation
+5,Validating hypervis,10.1109/TVCG.2021.3114866,Evaluation
+6,Discussion,10.1109/TVCG.2021.3114866,Discussion and Conclusion
+7,Conclusion,10.1109/TVCG.2021.3114866,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114850,Introduction
+2,Related work,10.1109/TVCG.2021.3114850,Related Work
+3,Design overview,10.1109/TVCG.2021.3114850,Problem Abstraction
+4,Visual analytics framework,10.1109/TVCG.2021.3114850,System and Implementation
+5,Usage scenarios and expert review,10.1109/TVCG.2021.3114850,Evaluation
+6,Conclusions,10.1109/TVCG.2021.3114850,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114836,Introduction
+2,Related work,10.1109/TVCG.2021.3114836,Related Work
+3,Informing the design,10.1109/TVCG.2021.3114836,Problem Abstraction
+4,Predictive modeling,10.1109/TVCG.2021.3114836,Data and Algorithms
+5,Vbridge,10.1109/TVCG.2021.3114836,Visual Design
+7,Discussion,10.1109/TVCG.2021.3114836,Discussion and Conclusion
+8,Conclusion,10.1109/TVCG.2021.3114836,Discussion and Conclusion
+6,Evaluation,10.1109/TVCG.2021.3114836,Evaluation
+1,Introduction,10.1109/TVCG.2021.3114790,Introduction
+2,Related work,10.1109/TVCG.2021.3114790,Related Work
+3,Background and system overview,10.1109/TVCG.2021.3114790,
+4,Data analysis,10.1109/TVCG.2021.3114790,Data and Algorithms
+5,Visual design,10.1109/TVCG.2021.3114790,Visual Design
+6,Evaluation,10.1109/TVCG.2021.3114790,Evaluation
+7,Discussion,10.1109/TVCG.2021.3114790,Discussion and Conclusion
+8,Conclusion,10.1109/TVCG.2021.3114790,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114820,Introduction
+2,Related work,10.1109/TVCG.2021.3114820,Related Work
+3,Formative study,10.1109/TVCG.2021.3114820,Problem Abstraction
+4,Vitality,10.1109/TVCG.2021.3114820,System and Implementation
+5,Usage scenarios,10.1109/TVCG.2021.3114820,Evaluation
+6,Evaluation,10.1109/TVCG.2021.3114820,Evaluation
+7,Discussion,10.1109/TVCG.2021.3114820,Discussion and Conclusion
+8,Conclusion,10.1109/TVCG.2021.3114820,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114789,Introduction
+2,Related work,10.1109/TVCG.2021.3114789,Related Work
+3,Domain-centered design,10.1109/TVCG.2021.3114789,Problem Abstraction
+4,Data and analysis,10.1109/TVCG.2021.3114789,Data and Algorithms
+5,System overview,10.1109/TVCG.2021.3114789,System and Implementation
+7,Evaluation,10.1109/TVCG.2021.3114789,Evaluation
+8,Discussion,10.1109/TVCG.2021.3114789,Discussion and Conclusion
+9,Conclusion,10.1109/TVCG.2021.3114789,Discussion and Conclusion
+6,Visualization design,10.1109/TVCG.2021.3114789,Visual Design
+1,Introduction,10.1109/TVCG.2021.3114822,Introduction
+2,Related work,10.1109/TVCG.2021.3114822,Related Work
+3,Design of coux,10.1109/TVCG.2021.3114822,Problem Abstraction
+4,Coux system,10.1109/TVCG.2021.3114822,System and Implementation
+5,User study,10.1109/TVCG.2021.3114822,Evaluation
+6,Results,10.1109/TVCG.2021.3114822,Evaluation
+7,Discussion,10.1109/TVCG.2021.3114822,Discussion and Conclusion
+8,Conclusion,10.1109/TVCG.2021.3114822,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114837,Introduction
+2,Background,10.1109/TVCG.2021.3114837,Problem Abstraction
+3,Related work,10.1109/TVCG.2021.3114837,Related Work
+4,Tasks and workflow,10.1109/TVCG.2021.3114837,Problem Abstraction
+5,System description,10.1109/TVCG.2021.3114837,System and Implementation
+6,System implementation,10.1109/TVCG.2021.3114837,System and Implementation
+7,Example usage scenarios,10.1109/TVCG.2021.3114837,Evaluation
+8,Experimental validation,10.1109/TVCG.2021.3114837,Evaluation
+9,Limitations,10.1109/TVCG.2021.3114837,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114794,Introduction
+2,Related work,10.1109/TVCG.2021.3114794,Related Work
+3,Background,10.1109/TVCG.2021.3114794,Problem Abstraction
+4,Design requirements,10.1109/TVCG.2021.3114794,Problem Abstraction
+5,M2 lens,10.1109/TVCG.2021.3114794,System and Implementation
+6,Evaluation,10.1109/TVCG.2021.3114794,Evaluation
+7,Discussion,10.1109/TVCG.2021.3114794,Discussion and Conclusion
+8,Conclusion and future work,10.1109/TVCG.2021.3114794,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114858,Introduction
+2,Related work,10.1109/TVCG.2021.3114858,Related Work
+3,Design challenges,10.1109/TVCG.2021.3114858,Problem Abstraction
+4,Design goals,10.1109/TVCG.2021.3114858,Problem Abstraction
+5,Model choice and background,10.1109/TVCG.2021.3114858,
+6,Scalable neural network summarizationneurocartography,10.1109/TVCG.2021.3114858,Data and Algorithms
+7,User interface,10.1109/TVCG.2021.3114858,Visual Design
+8,Human experiment to evaluate neurocartography,10.1109/TVCG.2021.3114858,Evaluation
+9,Usage scenarios,10.1109/TVCG.2021.3114858,Evaluation
+1,Introduction,10.1109/TVCG.2021.3114832,Introduction
+3,Background,10.1109/TVCG.2021.3114832,Problem Abstraction
+4,Algorithm,10.1109/TVCG.2021.3114832,Data and Algorithms
+2,Related work,10.1109/TVCG.2021.3114832,Related Work
+5,System design,10.1109/TVCG.2021.3114832,System and Implementation
+6,Evaluation,10.1109/TVCG.2021.3114832,Evaluation
+7,Discussion,10.1109/TVCG.2021.3114832,Discussion and Conclusion
+8,Conclusion,10.1109/TVCG.2021.3114832,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114781,Introduction
+2,Related work,10.1109/TVCG.2021.3114781,Related Work
+3,Background,10.1109/TVCG.2021.3114781,Problem Abstraction
+4,Risk-aware framework,10.1109/TVCG.2021.3114781,Problem Abstraction
+5,Visualization techniques,10.1109/TVCG.2021.3114781,System and Implementation
+6,Usage scenario,10.1109/TVCG.2021.3114781,Evaluation
+7,Experiments,10.1109/TVCG.2021.3114781,Evaluation
+8,User evaluation,10.1109/TVCG.2021.3114781,Evaluation
+9,Discussion,10.1109/TVCG.2021.3114781,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114878,Introduction
+2,Related work,10.1109/TVCG.2021.3114878,Related Work
+3,Background,10.1109/TVCG.2021.3114878,Problem Abstraction
+5,Implementation,10.1109/TVCG.2021.3114878,System and Implementation
+6,Evaluation,10.1109/TVCG.2021.3114878,Evaluation
+7,Discussion,10.1109/TVCG.2021.3114878,Discussion and Conclusion
+8,Conclusion,10.1109/TVCG.2021.3114878,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114821,Introduction
+2,Background on bitcoin mining and mining pools,10.1109/TVCG.2021.3114821,Related Work
+3,Analysis factors and motivation,10.1109/TVCG.2021.3114821,Problem Abstraction
+4,Data acquisition,10.1109/TVCG.2021.3114821,Data and Algorithms
+5,Design process and task analysis,10.1109/TVCG.2021.3114821,Problem Abstraction
+6,Related work,10.1109/TVCG.2021.3114821,Related Work
+7,Visualization design,10.1109/TVCG.2021.3114821,Visual Design
+8,User study,10.1109/TVCG.2021.3114821,Evaluation
+9,Discussion,10.1109/TVCG.2021.3114821,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114800,Introduction
+3,Task and design requirements,10.1109/TVCG.2021.3114800,Problem Abstraction
+4,Architecture,10.1109/TVCG.2021.3114800,System and Implementation
+5,Efficient dynamic clustering,10.1109/TVCG.2021.3114800,Data and Algorithms
+6,Visualization techniques,10.1109/TVCG.2021.3114800,Visual Design
+8,Discussion,10.1109/TVCG.2021.3114800,Discussion and Conclusion
+9,Conclusion and future work,10.1109/TVCG.2021.3114800,Discussion and Conclusion
+7,Evaluation,10.1109/TVCG.2021.3114800,Evaluation
+2,Related work,10.1109/TVCG.2021.3114800,Related Work
+1,Introduction,10.1109/TVCG.2021.3114868,Introduction
+3,A multilevel overview of event sequences,10.1109/TVCG.2021.3114868,Data and Algorithms
+5,Visualization system,10.1109/TVCG.2021.3114868,System and Implementation
+6,Case studies,10.1109/TVCG.2021.3114868,Evaluation
+4,Analytic tasks,10.1109/TVCG.2021.3114868,Problem Abstraction
+7,Discussion and conclusion,10.1109/TVCG.2021.3114868,Discussion and Conclusion
+2,Related work,10.1109/TVCG.2021.3114868,Related Work
+1,Introduction,10.1109/TVCG.2021.3114867,Introduction
+2,Background and related work,10.1109/TVCG.2021.3114867,Related Work
+3,Development process and requirement analysis,10.1109/TVCG.2021.3114867,Problem Abstraction
+4,Evis,10.1109/TVCG.2021.3114867,System and Implementation
+5,Case studies,10.1109/TVCG.2021.3114867,Evaluation
+7,Discussions,10.1109/TVCG.2021.3114867,Discussion and Conclusion
+8,Conclusion and future work,10.1109/TVCG.2021.3114867,Discussion and Conclusion
+6,Expert feedback,10.1109/TVCG.2021.3114867,Evaluation
+1,Introduction,10.1109/TVCG.2021.3114683,Introduction
+2,Background,10.1109/TVCG.2021.3114683,Related Work
+3,Related work,10.1109/TVCG.2021.3114683,Related Work
+4,Motivating case study,10.1109/TVCG.2021.3114683,Evaluation
+5,Design goals,10.1109/TVCG.2021.3114683,Problem Abstraction
+6,Design of visqa,10.1109/TVCG.2021.3114683,System and Implementation
+7,Implementation,10.1109/TVCG.2021.3114683,System and Implementation
+8,Evaluation with domain experts,10.1109/TVCG.2021.3114683,Evaluation
+9,Discussions,10.1109/TVCG.2021.3114683,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114827,Introduction
+2,Related work,10.1109/TVCG.2021.3114827,Related Work
+3,Lumos,10.1109/TVCG.2021.3114827,System and Implementation
+4,Example usage scenarios,10.1109/TVCG.2021.3114827,Evaluation
+5,Evaluation,10.1109/TVCG.2021.3114827,Evaluation
+6,Discussion,10.1109/TVCG.2021.3114827,Discussion and Conclusion
+7,Limitations,10.1109/TVCG.2021.3114827,Discussion and Conclusion
+8,Conclusion,10.1109/TVCG.2021.3114827,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114853,Introduction
+3,Vision based autonomous driving models,10.1109/TVCG.2021.3114853,Data and Algorithms
+4,Geo-context aware data processing,10.1109/TVCG.2021.3114853,Data and Algorithms
+5,Design of the visualization system,10.1109/TVCG.2021.3114853,Visual Design
+2,Related work,10.1109/TVCG.2021.3114853,Related Work
+6,Use cases,10.1109/TVCG.2021.3114853,Evaluation
+7,Expert evaluation,10.1109/TVCG.2021.3114853,Evaluation
+8,Discussion and conclusion,10.1109/TVCG.2021.3114853,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114777,Introduction
+3,Overview,10.1109/TVCG.2021.3114777,System and Implementation
+4,Visual evaluation approach,10.1109/TVCG.2021.3114777,System and Implementation
+5,Case study,10.1109/TVCG.2021.3114777,Evaluation
+7,Discussion and conclusion,10.1109/TVCG.2021.3114777,Discussion and Conclusion
+2,Related work,10.1109/TVCG.2021.3114777,Related Work
+6,Expert evaluation,10.1109/TVCG.2021.3114777,Evaluation
+1,Introduction,10.1109/TVCG.2021.3114855,Introduction
+2,Related work,10.1109/TVCG.2021.3114855,Related Work
+3,Background,10.1109/TVCG.2021.3114855,Problem Abstraction
+4,Design requirements,10.1109/TVCG.2021.3114855,Problem Abstraction
+5,Overview,10.1109/TVCG.2021.3114855,System and Implementation
+6,Method,10.1109/TVCG.2021.3114855,Data and Algorithms
+7,Visual analytics system,10.1109/TVCG.2021.3114855,System and Implementation
+8,Case studies and evaluation,10.1109/TVCG.2021.3114855,Evaluation
+9,Discussion,10.1109/TVCG.2021.3114855,Discussion and Conclusion
+1,Introduction,10.1109/TVCG.2021.3114875,Introduction
+2,Related work,10.1109/TVCG.2021.3114875,Related Work
+3,Background and system overview,10.1109/TVCG.2021.3114875,
+4,Model,10.1109/TVCG.2021.3114875,Data and Algorithms
+5,Visual design,10.1109/TVCG.2021.3114875,Visual Design
+6,Evaluation,10.1109/TVCG.2021.3114875,Evaluation
+7,Discussion,10.1109/TVCG.2021.3114875,Discussion and Conclusion
+8,Conclusion,10.1109/TVCG.2021.3114875,Discussion and Conclusion

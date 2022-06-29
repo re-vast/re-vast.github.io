@@ -1,0 +1,77 @@
+method,num_participants,DOI,measurement
+usage scenarios,,10.1109/TVCG.2021.3114797,workflow and insights
+field studies,4,10.1109/TVCG.2021.3114797,qualitative opinion
+field studies,4,10.1109/TVCG.2021.3114797,questionnaire (SUS)
+field studies,4,10.1109/TVCG.2021.3114797,quantitative performance
+usage scenarios*,,10.1109/TVCG.2021.3114812,workflow and insights
+interview,2,10.1109/TVCG.2021.3114812,qualitative opinion
+field studies,3,10.1109/TVCG.2021.3114861,workflow and insights
+field studies,3,10.1109/TVCG.2021.3114861,qualitative opinion
+field studies,4,10.1109/TVCG.2021.3114810,workflow and insights
+field studies,4,10.1109/TVCG.2021.3114810,qualitative opinion
+field studies,2,10.1109/TVCG.2021.3114840,workflow and insights
+field studies,2,10.1109/TVCG.2021.3114840,qualitative opinion
+field studies,2,10.1109/TVCG.2021.3114766,workflow and insights
+field studies,2,10.1109/TVCG.2021.3114766,qualitative opinion
+usage scenarios,,10.1109/TVCG.2021.3114857,workflow and insights
+algorithm experiments,,10.1109/TVCG.2021.3114857,algorithm accuracy and run time
+interview,3,10.1109/TVCG.2021.3114857,qualitative opinion
+usage scenarios*,,10.1109/TVCG.2021.3114866,workflow and insights
+field studies,6,10.1109/TVCG.2021.3114866,qualitative opinion
+usage scenarios,,10.1109/TVCG.2021.3114850,workflow and insights
+interview,6,10.1109/TVCG.2021.3114850,qualitative opinion
+interview,6,10.1109/TVCG.2021.3114850,questionnaire
+field studies,2,10.1109/TVCG.2021.3114836,workflow and insights
+field studies,2,10.1109/TVCG.2021.3114836,qualitative opinion
+field studies,1,10.1109/TVCG.2021.3114790,workflow and insights
+interview,4,10.1109/TVCG.2021.3114790,qualitative opinion
+usage scenarios,,10.1109/TVCG.2021.3114820,workflow and insights
+field studies,6,10.1109/TVCG.2021.3114820,qualitative opinion
+field studies,6,10.1109/TVCG.2021.3114820,questionnaire (SUS)
+field studies,16,10.1109/TVCG.2021.3114789,qualitative opinion
+field studies,16,10.1109/TVCG.2021.3114789,questionnaire
+field studies,16,10.1109/TVCG.2021.3114789,workflow and insights
+field studies,16,10.1109/TVCG.2021.3114789,quantitative change
+field studies,12,10.1109/TVCG.2021.3114822,qualitative opinion
+field studies,12,10.1109/TVCG.2021.3114822,questionnaire
+field studies,12,10.1109/TVCG.2021.3114822,logs
+usage scenarios,,10.1109/TVCG.2021.3114837,workflow and insights
+algorithm experiments,,10.1109/TVCG.2021.3114837,algorithm performance
+field studies,3,10.1109/TVCG.2021.3114794,workflow and insights
+field studies,3,10.1109/TVCG.2021.3114794,qualitative opinion
+usage scenarios,,10.1109/TVCG.2021.3114858,workflow and insights
+others,,10.1109/TVCG.2021.3114858,insight qualitiy
+field studies,4,10.1109/TVCG.2021.3114832,workflow and insights
+field studies,4,10.1109/TVCG.2021.3114832,qualitative opinion
+usage scenarios,,10.1109/TVCG.2021.3114781,workflow and insights
+algorithm experiments,,10.1109/TVCG.2021.3114781,algorithm performance
+experimental studies,12,10.1109/TVCG.2021.3114781,task accuracy and time
+experimental studies,12,10.1109/TVCG.2021.3114781,qualitative opinion
+experimental studies,12,10.1109/TVCG.2021.3114781,questionnaire
+field studies,2,10.1109/TVCG.2021.3114878,workflow and insights
+field studies,2,10.1109/TVCG.2021.3114878,qualitative opinion
+field studies,8,10.1109/TVCG.2021.3114821,qualitative opinion
+field studies,8,10.1109/TVCG.2021.3114821,qualitative opinion
+field studies,8,10.1109/TVCG.2021.3114821,questionnaire  (SUS)
+field studies,8,10.1109/TVCG.2021.3114821,logs
+algorithm experiments,,10.1109/TVCG.2021.3114800,algorithm performance
+usage scenarios,,10.1109/TVCG.2021.3114800,workflow and insights
+field studies,3,10.1109/TVCG.2021.3114868,workflow and insights
+field studies,3,10.1109/TVCG.2021.3114868,qualitative opinion
+field studies,3,10.1109/TVCG.2021.3114867,workflow and insights
+interview,13,10.1109/TVCG.2021.3114867,qualitative opinion
+field studies,6,10.1109/TVCG.2021.3114683,workflow and insights
+field studies,6,10.1109/TVCG.2021.3114683,qualitative opinion
+experimental studies,24,10.1109/TVCG.2021.3114827,qualitative opinion
+experimental studies,24,10.1109/TVCG.2021.3114827,questionnaire
+experimental studies,24,10.1109/TVCG.2021.3114827,logs
+usage scenarios*,,10.1109/TVCG.2021.3114853,workflow and insights
+field studies,5,10.1109/TVCG.2021.3114853,qualitative opinion
+usage scenarios*,,10.1109/TVCG.2021.3114777,workflow and insights
+field studies,5,10.1109/TVCG.2021.3114777,qualitative opinion
+field studies,5,10.1109/TVCG.2021.3114777,questionnaire
+field studies,4,10.1109/TVCG.2021.3114855,workflow and insights
+field studies,4,10.1109/TVCG.2021.3114855,qualitative opinion
+algorithm experiments,,10.1109/TVCG.2021.3114855,insights
+field studies,3,10.1109/TVCG.2021.3114875,workflow and insights
+field studies,3,10.1109/TVCG.2021.3114875,qualitative opinion
