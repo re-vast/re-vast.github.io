@@ -1,0 +1,37 @@
+IssueID,section,Issue,count,specificity_mean,specificity_std
+1,-,Lacking links of coherence and consistency,9,2.466666667,2.263583337
+2,Introduction,Unclear relevance to visual analytics,5,6.733333333,0.457737708
+3,Introduction,Vague/over-claimed contributions,6,1.733333333,1.387014608
+4,Introduction,Unclear contributions to the VA community,3,4.266666667,1.751190072
+5,Introduction,Unclear novelty of VA systems,10,5.8,2.007130147
+6,Related Work,Missing related work,5,1,0
+7,Related Work,Inadequate discussion about related work,3,1.066666667,0.25819889
+8,Domain Problem,Unclear domain experts or target users,11,5.666666667,1.175139303
+9,Domain Problem,Unclear methodology and methods for problem abstraction,6,5,1.8516402
+10,Domain Problem,Insufficient abstraction from domain to VA problems,2,5.133333333,1.846489591
+11,Data/Algorithm,Unclear definitions and explanations of data,5,3.266666667,1.869555588
+12,Data/Algorithm,Missing technical details,15,1.333333333,0.816496581
+13,Data/Algorithm,Novel data processing algorithms,4,3.666666667,1.799470822
+14,Data/Algorithm,Unclear choices of algorithms/models,7,2.933333333,1.751190072
+15,Visual Design,Missing details of visual designs,8,4.666666667,1.67616342
+16,Visual Design,Unclear novelty of visual designs,3,4.6,1.723783215
+17,Visual Design,Unclear rationale and justifications of visual designs,23,4.733333333,1.79151439
+18,Visual Design,Problematic visual designs,6,4.466666667,1.922300209
+19,Visual Design,Missing discussions about alternative designs,4,4.4,1.843908891
+20,Visual Design,Over-complicated visual designs,9,5.733333333,1.387014608
+21,System ,Lacking workflow overviews or system demonstration,3,5.133333333,1.995232413
+22,System ,Uncertainty/stability/sensibility,6,3.2,2.144761059
+23,System ,Scalability,10,2.666666667,1.838736626
+24,System ,Generalizability,6,3.333333333,1.988059595
+25,System ,Usability,2,3.933333333,2.282438128
+26,Evaluation,Evaluations are incomplete and insufficient,8,2.6,2.097617696
+27,Evaluation,Unclear evaluation methods and protocols,9,2.666666667,2.225394561
+28,Evaluation,Lacking realism,9,3.933333333,1.869555588
+29,Evaluation,Lacking comparison with baseline approaches,8,2.333333333,1.397276262
+30,Evaluation,Lacking quantitative evaluation and feedback,5,3.066666667,1.751190072
+31,Evaluation,Insights are suspicious or not new,5,4.533333333,1.959105724
+32,Evaluation,Unclear interpretation of expert feedback,9,5.066666667,1.667618776
+33,Discussion and Conclusion,Insufficient discussions on limitations and implications,5,2.133333333,1.884776101
+34,Other,Various presentation issues,22,1.4,1.055597326
+35,Other,Ethics,2,1.866666667,1.552264091
+36,Other,Open-source,4,2.066666667,1.751190072
