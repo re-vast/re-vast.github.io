@@ -1,6 +1,6 @@
 # README
 This folder lists the supplemental material of the submission titled *In Defence of Visual Analytics Systems: Replies to Critics*.  
-Brief discussions about the following data is available at <a href="https://re-vast.github.io">https://re-vast.github.io</a>.
+Brief discussions about the following data are available at <a href="https://re-vast.github.io">https://re-vast.github.io</a>.
 
 
 ## Critics.csv
